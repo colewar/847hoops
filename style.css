@@ -1,0 +1,32 @@
+
+h1 {
+  font-size:50px;
+  font-family: 'Bowlby One SC', cursive;
+  text-align: center;
+  color:black;
+}
+h2 {
+  font-family: 'Bowlby One SC', helvetica;
+  text-align: center;
+  color:black;
+}
+header {
+  text-align: center;
+}
+a {
+  color: white;
+}
+ul {
+  padding: 10px;
+  background:rgba(0,0,0,0.5);
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+body {
+  background: url("tommy-boudreau-diO0a_ZEiEE-unsplash.jpg")bottom center no-repeat;
+  background-size:100%;
+  background-position: center;
+  background-attachment: fixed;
+}

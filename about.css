@@ -1,0 +1,32 @@
+
+h1 {
+  font-size:50px;
+  font-family: 'Bowlby One SC', cursive;
+  text-align: center;
+  color:white;
+}
+header {
+  text-align: center;
+}
+a {
+  color: white;
+}
+ul {
+  padding: 10px;
+  background:rgba(0,0,0,0.5);
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+article {
+  color:white;
+  width:500px;
+  padding:20px 5px 300px 700px;
+}
+body {
+  background: url("markus-spiske-BfphcCvhl6E-unsplash.jpg")bottom center no-repeat;
+  background-size:100%;
+  background-position: center;
+  background-attachment: fixed;
+}
